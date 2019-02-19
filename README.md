@@ -11,7 +11,7 @@
 
 19/02/2019:
 
-1> how do you feel today  -> not bad.
+1> how do you feel today  -> not good.
 
 2> what did you do yesterday ? -> learn ML and copy paste code on kaggle and run test.
 
