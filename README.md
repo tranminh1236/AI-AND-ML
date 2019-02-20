@@ -18,3 +18,13 @@
 3> what are you doing ? research AI theory and start write slide about AI generality.
 
 4> what is your blocking ? research fully about something AI algorithm.
+
+20/02/2019:
+
+1> how do you feel today  -> not good.
+
+2> what did you do yesterday ? -> copy paste code on kaggle and run test.
+
+3> what are you doing ? research AI theory and start write slide about AI generality.
+
+4> what is your blocking ? the time.
