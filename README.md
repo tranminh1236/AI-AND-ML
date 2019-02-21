@@ -28,3 +28,13 @@
 3> what are you doing ? research AI theory and start write slide about AI generality.
 
 4> what is your blocking ? the time.
+
+20/02/2019:
+
+1> how do you feel today  -> not good.
+
+2> what did you do yesterday ? -> write slide and code jupiter notebook code titanic
+
+3> what are you doing ? write slide
+
+4> what is your blocking ? the time.
