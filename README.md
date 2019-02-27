@@ -58,3 +58,13 @@
 3> what are you doing ? code eda audience
 
 4> what is your blocking ? slpit category to paint
+
+27/02/2019:
+
+1> how do you feel today  -> not bad.
+
+2> what did you do yesterday ? -> write slide.
+
+3> what are you doing ? code eda audience
+
+4> what is your blocking ? dataframe funtionc
