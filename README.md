@@ -68,3 +68,13 @@
 3> what are you doing ? code eda audience
 
 4> what is your blocking ? dataframe funtionc
+
+28/02/2019:
+
+1> how do you feel today  -> not bad.
+
+2> what did you do yesterday ? -> write slide and demo titanic.
+
+3> what are you doing ? research workflow AI, ML, DL.
+
+4> what is your blocking ? research not found.
