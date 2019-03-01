@@ -78,3 +78,13 @@
 3> what are you doing ? research workflow AI, ML, DL.
 
 4> what is your blocking ? research not found.
+
+28/02/2019:
+
+1> how do you feel today  -> not bad.
+
+2> what did you do yesterday ? -> read workflow ML.
+
+3> what are you doing ? read info ML and code audience.
+
+4> what is your blocking ? no.
