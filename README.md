@@ -88,3 +88,23 @@
 3> what are you doing ? read info ML and code audience.
 
 4> what is your blocking ? no.
+
+04/03/2019:
+
+1> how do you feel today  -> very bad.
+
+2> what did you do yesterday ? -> code task platform
+
+3> what are you doing ? code task platform
+
+4> what is your blocking ? upload ftp no working
+
+05/03/2019:
+
+1> how do you feel today  -> worry time.
+
+2> what did you do yesterday ? -> code task platform.
+
+3> what are you doing ? code audience
+
+4> what is your blocking ? no.
